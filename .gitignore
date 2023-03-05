@@ -1,5 +1,0 @@
-*.pyc
-/var/vault/*
-/var/pipes/loki.key
-/var/pipes/loki.key.bk
-/var/pipes/loki_config
